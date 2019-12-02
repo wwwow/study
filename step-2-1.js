@@ -1,5 +1,5 @@
 function main() {
-    const MEMBER = 2; //9
+    const MEMBER = 9;
     let firstTeamInfo = "";
     let firstTeamData = [];
   
